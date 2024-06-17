@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Machine Learning** and "OpenCV"
+- 🌱 I’m currently learning **Machine Learning** and **OpenCV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

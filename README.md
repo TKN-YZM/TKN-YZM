@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **AI** and **Mobile App** 
 
-- 🌱 I’m currently learning **Machine Learning** , **OpenCV**,**NLP** , **Arduino&STM32**
+- 🌱 I’m currently learning **Machine Learning** , **OpenCV**,**NLP** , **Arduino&STM32** ,**Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +24,6 @@
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>

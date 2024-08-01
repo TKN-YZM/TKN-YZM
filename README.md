@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI** and **Mobile App** 
 
-- 🌱 I’m currently learning **Machine Learning** , **OpenCV**,**NLP** , **Arduino&STM32** ,**Flutter**
+- 🌱 I’m currently learning **Flutter**\**Machine Learning**,**Arduino&STM32** ,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

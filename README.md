@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">AI Enthusiast & Mobile App Developer</h3>
 
-- 🔭 I’m currently working on **AI** and **Mobile App Development**  
-- 🌱 I’m currently learning **Flutter**, **React Native**, **Arduino**, and **STM32**  
+- 🔭 I’m currently working on **Mobile App Development / Flutter and React Native**  
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/abdullah-balcan-6376a0228/) or check my [YouTube](https://www.youtube.com/@teknolojiveyazilim)  
 
 <h3 align="left">Connect with me:</h3>

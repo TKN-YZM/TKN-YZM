@@ -2,14 +2,14 @@
 <h3 align="center">Mobile App Developer</h3>
 
 - 🔭 I’m currently working on **Mobile App Development / Flutter and React Native**  
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/abdullah-balcan-6376a0228/) or check my [YouTube](https://www.youtube.com/@teknolojiveyazilim)  
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/abdullah-balcan-6376a0228/) or check my [YouTube](https://www.youtube.com/@abdullah_balcan)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abdullah-balcan-6376a0228/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Abdullah Balcan" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@teknolojiveyazilim" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@abdullah_balcan" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Teknoloji ve Yazılım" height="30" width="40" />
   </a>
 </p>
